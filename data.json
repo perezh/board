@@ -1,1 +1,165 @@
-{"dreamlo":{"leaderboard":{"entry":[{"name":"PEREZ_ZO,PEDRO","score":"80","seconds":"160","text":"","date":"9/7/2022 4:32:00 PM"},{"name":"ALARCON_GUTIERREZ,_CARLOS","score":"29","seconds":"169","text":"","date":"9/7/2022 4:26:10 PM"},{"name":"ALONSO_GARCIA,_ESTHER","score":"15","seconds":"7","text":"","date":"9/7/2022 4:36:16 PM"},{"name":"ALONSO_IBANEZ,_MARIA","score":"11","seconds":"100","text":"","date":"9/7/2022 4:26:11 PM"},{"name":"ACEBO_GOMEZ,_ALEJANDRO","score":"7","seconds":"25","text":"","date":"9/7/2022 4:26:09 PM"}]}}}
+{
+  "entry": [
+    {
+      "name": "BLANCO_GALA,_GUILLERMO",
+      "score": "80",
+      "seconds": "2688",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "COBO_RENEDO,_OLIMPIA",
+      "score": "80",
+      "seconds": "307",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "ECHEVARRIA_FLORANES,_AITOR",
+      "score": "80",
+      "seconds": "257",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "ENTRECANALES_CUENCA,_OSCAR",
+      "score": "80",
+      "seconds": "2807",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "FERNANDEZ_GARCIA,_MARCOS",
+      "score": "80",
+      "seconds": "3128",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "FERNANDEZ_SAINZ,_MARIO",
+      "score": "80",
+      "seconds": "1996",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "GARCIA_ARENAL,_CARLOS",
+      "score": "80",
+      "seconds": "2815",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "GARCIA_GARCIA,_SAMUEL",
+      "score": "80",
+      "seconds": "1470",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "GARRIDO_LOPEZ,_JAVIER",
+      "score": "57",
+      "seconds": "3677",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "GONZALEZ_ALONSO,_ALEJANDRO",
+      "score": "80",
+      "seconds": "737",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "GONZALEZ_ALVAREZ,_JUAN_FRANCISCO",
+      "score": "80",
+      "seconds": "1483",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "GONZALEZ_GARCIA,_OSCAR",
+      "score": "80",
+      "seconds": "1723",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "GONZALEZ_PUENTE,_LUCAS",
+      "score": "80",
+      "seconds": "2142",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "SAIZ_HOYOS,_JORGE",
+      "score": "80",
+      "seconds": "733",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "SANCHEZ_GOMEZ,_LORENA",
+      "score": "80",
+      "seconds": "1936",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "SANCHEZ_MATILLA,_RAUL",
+      "score": "80",
+      "seconds": "1590",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "SIERRA_MARTINEZ,_JAVIER",
+      "score": "80",
+      "seconds": "2689",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "SIMCIUC,_DRAGOS",
+      "score": "80",
+      "seconds": "3109",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "SOLOVEI,_ALEXANDRU",
+      "score": "80",
+      "seconds": "3203",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "TUDURI_BELAUSTEGUI,_TELMO",
+      "score": "80",
+      "seconds": "3120",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "URSO_GOMEZ,_DIEGO_JOSE",
+      "score": "80",
+      "seconds": "2656",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "VAZQUEZ_GUTIERREZ,_GUILLERMO",
+      "score": "80",
+      "seconds": "259",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    },
+    {
+      "name": "VELATEGUI_PRIETO,_NECO",
+      "score": "69",
+      "seconds": "842",
+      "text": "",
+      "date": "2022-09-12-19:15:20"
+    }
+  ]
+}
