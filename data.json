@@ -1,557 +1,263 @@
 {
   "entry": [
     {
-      "name": "ABIA_SAINZ,_IZAN",
-      "score": "80",
-      "seconds": "52",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "ACHA_CALLEJO,_JAVIER",
-      "score": "80",
-      "seconds": "887",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "ALEGRIA_OCAMPO,_JORGE",
-      "score": "80",
-      "seconds": "114",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
       "name": "ALEGRIA_PUENTE,_AARON",
       "score": "80",
-      "seconds": "703",
+      "seconds": "80",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "ALONSO_HAYA,_ALVARO",
       "score": "80",
-      "seconds": "1245",
+      "seconds": "41",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "ALONSO_LAGUILLO,_DIEGO",
-      "score": "80",
-      "seconds": "1462",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "BARBADILLO_RUIGOMEZ,_JANO",
       "score": "80",
-      "seconds": "4407",
+      "seconds": "59",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "BAREZ_MORANTE,_DANIEL",
       "score": "80",
-      "seconds": "243",
+      "seconds": "50",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "BAYON_AIRA,_CARLOS",
-      "score": "80",
-      "seconds": "4133",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "BEAR_ROJAS,_JON",
-      "score": "80",
-      "seconds": "2224",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "BOO_RUIZ,_NECO",
       "score": "80",
-      "seconds": "1961",
+      "seconds": "66",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "CALLE_MENDIVIL,_LUIS",
       "score": "80",
-      "seconds": "2550",
+      "seconds": "58",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "CALLES_ALONSO,_VICTOR",
       "score": "80",
-      "seconds": "3959",
+      "seconds": "22",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "CAMPO_CUEVAS,_VICTOR",
-      "score": "80",
-      "seconds": "104",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "CASAL_TEJERINA,_PABLO",
-      "score": "80",
-      "seconds": "4330",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "CASTELLANOS_GIANNITRAPANI,_CARLOS",
-      "score": "80",
-      "seconds": "678",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "CUESTA_PEDROSA,_PEDRO",
       "score": "80",
-      "seconds": "4609",
+      "seconds": "59",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "CUEVAS_AMODIA,_DANIEL",
       "score": "80",
-      "seconds": "1831",
+      "seconds": "838",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "CUEVAS_LOPEZ,_OSCAR",
       "score": "80",
-      "seconds": "1257",
+      "seconds": "52",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "DE_CELIS_ALONSO,_RAUL",
-      "score": "80",
-      "seconds": "3350",
+      "score": "64",
+      "seconds": "390",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "DE_MONTIANO_DE_LA_PEDRAJA,_EDUARDO",
-      "score": "80",
-      "seconds": "69",
+      "score": "64",
+      "seconds": "300",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
-      "name": "DIEGO_MARTIN,_CANDELA",
-      "score": "80",
-      "seconds": "100",
+      "name": "ECHEVARRIA_CADELO,_HERNAN",
+      "score": "56",
+      "seconds": "324",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "ESPINOSA_BUSTAMANTE,_MARIO",
-      "score": "80",
-      "seconds": "436",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "FERNANDEZ_ARAGONCILLO,_MARIA",
       "score": "80",
-      "seconds": "3272",
+      "seconds": "435",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "FERNANDEZ_MARTIN,_HUGO",
-      "score": "80",
-      "seconds": "477",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "FERNANDEZ_PELLON,_SANDRA",
-      "score": "80",
-      "seconds": "503",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "FUERTES_TRALLERO,_ALVARO",
       "score": "80",
-      "seconds": "1600",
+      "seconds": "192",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "GANDARA_LAZA,_JAVIER",
-      "score": "80",
-      "seconds": "210",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "GARCIA_AGUILAR,_CARLOS",
-      "score": "80",
-      "seconds": "1302",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "GARCIA_DOSAL,_CRISTINA",
       "score": "80",
-      "seconds": "184",
+      "seconds": "138",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "GARCIA_SEBRANGO,_DAVID",
-      "score": "80",
-      "seconds": "686",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "GARRIDO_LOPEZ,_JAVIER",
-      "score": "80",
-      "seconds": "1196",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "GIMENO_RODRIGUEZ,_IVAN",
-      "score": "80",
-      "seconds": "1267",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "GOMEZ_FERNANDEZ,_FABIO_ANGEL",
-      "score": "74",
-      "seconds": "1644",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "GOMEZ_RUIZ,_NICOLAS",
-      "score": "80",
-      "seconds": "2232",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "GONZALEZ_ALVAREZ,_JUAN_FRANCISCO",
       "score": "80",
-      "seconds": "585",
+      "seconds": "87",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "GONZALEZ_FERNANDEZ,_DAVID",
-      "score": "80",
-      "seconds": "1325",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "GONZALEZ_LAVIN,_ANGEL",
-      "score": "80",
-      "seconds": "452",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "GONZALEZ_REVUELTA,_HUGO",
-      "score": "80",
-      "seconds": "217",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "GONZALEZ_SANTOVENIA,_DAVID",
       "score": "80",
-      "seconds": "1474",
+      "seconds": "872",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "GONZALEZ_SANUDO,_ISMAEL",
-      "score": "80",
-      "seconds": "1711",
+      "score": "72",
+      "seconds": "380",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "GONZALEZ_SOMARRIBA,_JOEL",
-      "score": "80",
-      "seconds": "3329",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "GUANCHE_MORENO,_ALVARO",
       "score": "80",
-      "seconds": "8872",
+      "seconds": "582",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "GUTIERREZ_AGUERO,_ALEJANDRO",
       "score": "80",
-      "seconds": "182",
+      "seconds": "21",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "GUTIERREZ_SERRANO,_MARCOS",
-      "score": "80",
-      "seconds": "1014",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "HERNANDEZ_MARCOTE,_LARA",
-      "score": "80",
-      "seconds": "1782",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "HERRAN_ESTERAS,_DIEGO",
-      "score": "80",
-      "seconds": "2202",
+      "score": "72",
+      "seconds": "423",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "LOPEZ_BLANCO,_MANUEL",
       "score": "80",
-      "seconds": "538",
+      "seconds": "26",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "LOPEZ_MARTIN,_ALEJANDRO",
       "score": "80",
-      "seconds": "79",
+      "seconds": "42",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
-      "name": "LOPEZTORMOS_GERVAS,_ALEJANDRO",
+      "name": "LOPEZ_PALACIOS,_CARMINA",
       "score": "80",
-      "seconds": "973",
+      "seconds": "401",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "MARTINEZ_VILLAR,_SERGIO",
       "score": "80",
-      "seconds": "2121",
+      "seconds": "717",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "MARTINEZ_ZULAICA,_IKER",
       "score": "80",
-      "seconds": "661",
+      "seconds": "79",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "MEDRANO_ALONSO,_RODRIGO",
-      "score": "80",
-      "seconds": "627",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "MONTENEGRO_JARQUIN,_DAVID_EDMUNDO",
-      "score": "80",
-      "seconds": "1039",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "MUELA_RUBIO,_JAVIER",
-      "score": "80",
-      "seconds": "2168",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "NGODJI_ENTCHEU,_GABRIEL_AUBAIN",
-      "score": "80",
-      "seconds": "1715",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "NUNEZ_SANCHEZ,_ADRIAN",
-      "score": "80",
-      "seconds": "131",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "OBREGON_DE_SOUZA,_NATHAN_ELOY",
       "score": "80",
-      "seconds": "1521",
+      "seconds": "184",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "ODRIOZOLA_GARCIA,_RUBEN",
-      "score": "80",
-      "seconds": "3227",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "OLMO_GARCIA,_SERGIO_DEL",
       "score": "80",
-      "seconds": "3056",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "OROZCO_DELGADO,_BEATRIZ",
-      "score": "80",
-      "seconds": "913",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "PAZ_HERNANDEZ,_ZULEMA_DE_LA",
-      "score": "80",
-      "seconds": "272",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "PINTO_VARONA,_IVAN",
-      "score": "80",
-      "seconds": "623",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "PIPAON_ALCIBAR,_MIKEL",
-      "score": "80",
-      "seconds": "3353",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "PREGO_FERNANDEZ,_JOAQUIN",
-      "score": "80",
-      "seconds": "785",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "RIVERO_ZAZO,_RAUL",
-      "score": "80",
       "seconds": "185",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "RODRIGUEZ_LOPEZ,_JAIME",
       "score": "80",
-      "seconds": "2648",
+      "seconds": "725",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "RUBIO_ROJO,_VICTOR",
       "score": "80",
-      "seconds": "138",
+      "seconds": "59",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "SAENZ_VILLAVERDE,_JAVIER",
-      "score": "80",
-      "seconds": "2645",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "SANCHEZ_MANTECON,_CARLOS",
-      "score": "80",
-      "seconds": "2997",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "SARO_GOMEZ,_DIEGO",
       "score": "80",
-      "seconds": "1364",
+      "seconds": "78",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "SENAS_GOMEZ,_LARO",
-      "score": "80",
-      "seconds": "121",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "SIERRA_MARTINEZ,_JAVIER",
       "score": "80",
-      "seconds": "581",
+      "seconds": "108",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "SILVA_TOCA,_HUGO",
-      "score": "80",
-      "seconds": "79",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "SIMON_FERNANDEZ,_ESTELA",
-      "score": "80",
-      "seconds": "295",
+      "score": "72",
+      "seconds": "416",
       "text": "",
-      "date": "2023-09-18-16:43:39"
-    },
-    {
-      "name": "TORRE_GARCIA,_MARIO",
-      "score": "80",
-      "seconds": "780",
-      "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "VEJO_GARCIA,_VICTOR",
       "score": "80",
-      "seconds": "2823",
+      "seconds": "43",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "VILLAR_CORRO,_DANIEL",
       "score": "80",
-      "seconds": "1607",
+      "seconds": "51",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     },
     {
       "name": "WEISSE,_JULIEN_LEO",
       "score": "80",
-      "seconds": "2382",
+      "seconds": "1351",
       "text": "",
-      "date": "2023-09-18-16:43:39"
+      "date": "2023-12-07-09:49:45"
     }
   ]
 }
