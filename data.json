@@ -1,1 +1,368 @@
-{"dreamlo":{"leaderboard":null}}
+{
+  "entry": [
+    {
+      "name": "ARCUDI_GARCIACOSSIO,_MARIA_ERUNDINA",
+      "score": "80",
+      "seconds": "238",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "BARRIUSO_BENITO,_ALONSO",
+      "score": "80",
+      "seconds": "75",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "BEITIA_GARCIA,_NOAH",
+      "score": "80",
+      "seconds": "68",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "BOCOS_SIERRA,_ADRIANA",
+      "score": "80",
+      "seconds": "66",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "CALDERON_CRUZ,_ALVARO",
+      "score": "80",
+      "seconds": "321",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "CALLES_ALONSO,_VICTOR",
+      "score": "80",
+      "seconds": "49",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "CALVO_SANTOS,_IAN",
+      "score": "80",
+      "seconds": "133",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "CIANCA_SANCHEZ_DE_MOVELLAN,_ANA",
+      "score": "80",
+      "seconds": "477",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "CUESTA_SALAS,_LUCIA",
+      "score": "80",
+      "seconds": "288",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "DE_CELIS_GONZALEZ,_EDUARDO",
+      "score": "80",
+      "seconds": "37",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "DEL_CID_PEREZ,_ASIER",
+      "score": "80",
+      "seconds": "311",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "DE_VEGA_LOPEZLARA,_RAUL",
+      "score": "80",
+      "seconds": "66",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "DIEZ_PONCELA,_HUGO",
+      "score": "80",
+      "seconds": "47",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "DORADO_SALAS,_SERGIO",
+      "score": "80",
+      "seconds": "116",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "EALO_LANCHA,_ARTURO",
+      "score": "80",
+      "seconds": "211",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "ENRIQUEZ_ASENJO,_ALVARO",
+      "score": "80",
+      "seconds": "51",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "FADRIQUE_LOIS,_MATEO",
+      "score": "80",
+      "seconds": "110",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "FERNANDEZ_COLINA,_JORGE",
+      "score": "80",
+      "seconds": "102",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "FERNANDEZ_PEREZ_INIGO,_DIEGO",
+      "score": "80",
+      "seconds": "525",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "FUENTE_MORALES,_ADRIAN_DE_LA",
+      "score": "80",
+      "seconds": "48",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "GAJANO_DIEGO,_ABRAHAM",
+      "score": "80",
+      "seconds": "137",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "GARCIA_BALDOR,_JUAN",
+      "score": "80",
+      "seconds": "409",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "GARCIA_SEBRANGO,_DAVID",
+      "score": "80",
+      "seconds": "57",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "GOMEZ_FERNANDEZ,_FABIO_ANGEL",
+      "score": "80",
+      "seconds": "99",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "GONZALEZ_DIAZ,_MARIO",
+      "score": "80",
+      "seconds": "726",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "GONZALEZ_GONZALEZ,_RUBEN",
+      "score": "72",
+      "seconds": "371",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "IGLESIAS_MANCHADO,_SERGIO",
+      "score": "80",
+      "seconds": "168",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "LAINZ_PEREZ,_VICTORIA_MARIA",
+      "score": "80",
+      "seconds": "98",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "MADRAZO_QUINTANA,_LUIS_MANUEL",
+      "score": "80",
+      "seconds": "71",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "MARTINEZ_RODRIGUEZ,_MARIA_DEL_PILAR",
+      "score": "80",
+      "seconds": "348",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "MARTIN_LUCIO,_CRISTINA",
+      "score": "80",
+      "seconds": "110",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "MORENO_GOMEZ,_DAVID",
+      "score": "80",
+      "seconds": "19",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "NISTAL_PEREZ,_JESUS",
+      "score": "80",
+      "seconds": "325",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "OLMO_GARCIA,_SERGIO_DEL",
+      "score": "80",
+      "seconds": "39",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "ORDONEZ_GAUTIER,_SARA_MEI",
+      "score": "80",
+      "seconds": "224",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "PEREZ_TAZON,_DANIEL",
+      "score": "80",
+      "seconds": "277",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "PISANO_GARCIA,_AITOR",
+      "score": "80",
+      "seconds": "147",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "PRESMANES_GARATE,_SOFIA",
+      "score": "80",
+      "seconds": "164",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "QUINTANA_REVILLA,_PABLO",
+      "score": "80",
+      "seconds": "174",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "RIVERO_FERNANDEZ,_AARON",
+      "score": "80",
+      "seconds": "120",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "RIVERO_ZAZO,_RAUL",
+      "score": "80",
+      "seconds": "182",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "RODRIGUEZ_ANTON,_SERGIO",
+      "score": "80",
+      "seconds": "66",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "SAENZ_VILLAVERDE,_JAVIER",
+      "score": "80",
+      "seconds": "500",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "SANCHEZ_CORRAL,_AINARA",
+      "score": "80",
+      "seconds": "200",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "SARO_GOMEZ,_DIEGO",
+      "score": "80",
+      "seconds": "275",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "SHADMEHR_SHARIF_RODRIGUEZ,_INES",
+      "score": "80",
+      "seconds": "223",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "SRIVAN_ZHU,_ANDRES",
+      "score": "72",
+      "seconds": "440",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "VILLAR_CORRO,_DANIEL",
+      "score": "80",
+      "seconds": "383",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "XU,_YUHAO",
+      "score": "80",
+      "seconds": "131",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "YILMAZ,_KERIM",
+      "score": "80",
+      "seconds": "754",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "YRUELA_CEBALLOS,_RAUL",
+      "score": "80",
+      "seconds": "1039",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    },
+    {
+      "name": "ZHOU,_JIA_HAO",
+      "score": "80",
+      "seconds": "38",
+      "text": "",
+      "date": "2024-12-10-09:37:14"
+    }
+  ]
+}
