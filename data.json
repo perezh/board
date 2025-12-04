@@ -1,235 +1,263 @@
 {
   "entry": [
     {
+      "name": "ABASCAL_SIMO,_ALEJANDRO",
+      "score": "72",
+      "seconds": "276",
+      "text": "",
+      "date": "2025-12-04-09:13:00"
+    },
+    {
       "name": "ALONSO_FERNANDEZ,_ALHENA",
       "score": "64",
       "seconds": "592",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "CALVENTE_IBANEZ,_HECTOR",
       "score": "80",
       "seconds": "109",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
+    },
+    {
+      "name": "CASTRO_RODRIGUEZ,_EDUARDO",
+      "score": "80",
+      "seconds": "64",
+      "text": "",
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "DE_LA_GUERRA_RUIZ,_DAVID",
       "score": "80",
       "seconds": "66",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "DURAN_VASALLO,_FERNANDO",
       "score": "80",
       "seconds": "47",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "ESCALANTE_GUTIERREZ,_CARLOS_ALBERTO",
       "score": "80",
       "seconds": "57",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "ESCALANTE_VELARDE,_ALVARO",
       "score": "80",
       "seconds": "1497",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "FERNANDEZ_FERNANDEZ,_DIEGO",
       "score": "80",
       "seconds": "857",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "FERNANDEZ_VILLALBA,_IVAN",
       "score": "80",
       "seconds": "113",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "GONZALEZ_SAIZ,_GAEL",
       "score": "80",
       "seconds": "51",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "GUTIERREZ_SALGUEIRO,_ADRIAN",
       "score": "80",
       "seconds": "86",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "GUTIERREZ_SOLARES,_RODRIGO",
       "score": "80",
       "seconds": "426",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "IBANEZ_SAMPERIO,_ABRAHAM",
       "score": "80",
       "seconds": "53",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "LAMELAS_GONZALEZ,_PABLO",
       "score": "80",
       "seconds": "23",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "LAMSALLAK_FORTUNY,_ISMAEL",
       "score": "80",
       "seconds": "90",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "LUENGO_RODRIGUEZ,_MARCOS",
       "score": "80",
       "seconds": "103",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "MORLOTE_PARADA,_ETHAN",
       "score": "80",
       "seconds": "692",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "NARANJO_GARCIA,_SIMON",
       "score": "80",
       "seconds": "1543",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
+    },
+    {
+      "name": "NIETO_GARCIA,_ARIADNE",
+      "score": "72",
+      "seconds": "1078",
+      "text": "",
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "PEREZ_GONZALEZ,_LAURA",
       "score": "72",
       "seconds": "472",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "QUINTANA_REVILLA,_PABLO",
       "score": "80",
       "seconds": "251",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "QUINTELA_MORANTE,_SAMUEL",
       "score": "80",
       "seconds": "479",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "REVUELTA_TRUEBA,_HUGO",
       "score": "72",
       "seconds": "248",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "REY_GUTIERREZ,_ANGEL",
       "score": "80",
       "seconds": "694",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "ROBLES_CORCHADO,_ASIER",
       "score": "80",
       "seconds": "60",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "RODRIGUEZ_ANDRADE,_DIEGO",
       "score": "80",
       "seconds": "74",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "RUEDA_SANTAMARIA,_MANUEL",
       "score": "0",
       "seconds": "119",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "RUIZ_GONZALEZ,_DANIEL",
       "score": "80",
       "seconds": "480",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "SALAS_VALENCIA,_LUCAS",
       "score": "80",
       "seconds": "189",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "SANCIBRIAN_GONZALEZ,_AARON",
       "score": "80",
       "seconds": "28",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "SRIVAN_ZHU,_ANDRES",
       "score": "80",
       "seconds": "61",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "TORRE_DE_TRASSIERRA_GONZALEZ,_ALVARO",
       "score": "80",
       "seconds": "113",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "TORRO_PEREZ,_VICENTE",
       "score": "80",
       "seconds": "81",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "TRESGALLO_SALAS,_PABLO",
       "score": "80",
       "seconds": "790",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
+    },
+    {
+      "name": "UGARTE_PEREDA,_ALVARO",
+      "score": "80",
+      "seconds": "366",
+      "text": "",
+      "date": "2025-12-04-09:13:00"
     },
     {
       "name": "VELASCO_GOMEZ,_DANIEL",
       "score": "80",
       "seconds": "296",
       "text": "",
-      "date": "2025-12-02-14:32:47"
+      "date": "2025-12-04-09:13:00"
     }
   ]
 }
